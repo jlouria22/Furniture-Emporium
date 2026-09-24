@@ -1,0 +1,39 @@
+p {
+  background-color: yellow;
+  color: blue;
+  font-weight: bold;
+  font-size: 15pt;
+}
+
+.Title-box {
+  background-color: green;
+}
+
+.Text {
+  padding: 25px;
+  margin: 25px;
+}
+.Money {
+  padding: 5px;
+  width: 60px;
+  background-color: lightgreen;
+}
+
+.H {
+  font-size: 30pt;
+  margin: 5px;
+}
+
+.Intro {
+  background-color: lightcoral;
+  color: black;
+}
+
+button {
+  background-color: lightgreen;
+  border-color: darkgreen;
+}
+
+article {
+  background-color: lightgray;
+}
